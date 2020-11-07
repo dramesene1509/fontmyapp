@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myappfront"
+    }
+  },
+  "defaultProject": "myappfront",
+  "cli": {
+    "analytics": "3945cbc3-f4df-4820-847b-0a9798d34d91"
+  }
 }
